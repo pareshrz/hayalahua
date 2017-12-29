@@ -26,4 +26,5 @@ if(command === 'add'){
 		console.log('command not recognized');
 	}
 }
-
+let d = new Date();
+console.log(d.getDate());
