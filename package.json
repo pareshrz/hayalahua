@@ -1,0 +1,17 @@
+{
+  "name": "notesnode",
+  "version": "1.0.0",
+  "description": "notes app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+		"yargs":"^"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paresh Bharambe",
+  "license": "ISC"
+}
