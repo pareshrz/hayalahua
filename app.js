@@ -27,4 +27,5 @@ if(command === 'add'){
 	}
 }
 let d = new Date();
-console.log(d.getDate());
+console.log(d.getDate() +"-"+ d.getMonth() + "-" + d.getFullYear());
+console.log('Happy New Year');
