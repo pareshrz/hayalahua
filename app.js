@@ -28,4 +28,4 @@ if(command === 'add'){
 }
 let d = new Date();
 console.log(d.getDate() +"-"+ d.getMonth() + "-" + d.getFullYear());
-console.log('Happy New Year');
+console.log('Happy New Year Tomorrow');
